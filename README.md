@@ -10,7 +10,7 @@ A junior in high school with a passion for electronics, programming, and robotic
 * 🖥️  See my portfolio at [My Blog](http://bolanxu.github.io)
 * ✉️  You can contact me at [bolanx@bgsu.edu](mailto:bolanx@bgsu.edu)
 * 🚀  I'm currently working on [A Terminal-Style-Cellular-Device](http://github.com/bolanxu/Terminal-Style-Cellular-Device)
-* 🧠  I'm currently learning about SIM card modem AT commands
+* 🧠  I'm currently learning about WiFi communication with ESP devices
 * 👥  I'm looking to collaborate on any interesting electronics, software, and hardware projects
 
 <p align="left">
