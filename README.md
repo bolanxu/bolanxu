@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any cool hardware or software project**
 
-- 📝 I regularly write articles on [My Blog](http://bolanxu.github.io/)
+- 📝 I **try** to regularly write articles on [My Blog](http://bolanxu.github.io/)
 
 - 📫 How to reach me **bolanx@bgsu.edu**
 
