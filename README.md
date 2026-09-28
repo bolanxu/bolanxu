@@ -13,7 +13,7 @@
 
 - 📝 I **try** to regularly write articles on [My Blog](http://bolanxu.github.io/)
 
-- 📫 How to reach me **bolanx@bgsu.edu**
+- 📫 How to reach me **bolanxu123@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://bolanxu.github.io/assets/pdf/Bolan_Xu_Resume.pdf)
 
