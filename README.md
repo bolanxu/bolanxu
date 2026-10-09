@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Terminus](https://hackaday.io/project/204892-a-terminal-style-phone-for-the-geek)
 
-- 🌱 I’m currently learning **applying to college ;)**
+- 🌱 I’m currently **applying to college ;)**
 
 - 👯 I’m looking to collaborate on **any cool hardware or software project**
 
